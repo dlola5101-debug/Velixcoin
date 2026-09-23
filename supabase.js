@@ -11,8 +11,8 @@ window.initSupabase = function () {
   if (
     !SUPABASE_URL ||
     !SUPABASE_ANON_KEY ||
-    SUPABASE_URL.includes("YOUR_PROJECT") ||
-    SUPABASE_ANON_KEY.includes("YOUR_")
+    SUPABASE_URL.includes(https://kzkmlwprdjotbguwaclp.supabase.co) ||
+    SUPABASE_ANON_KEY.includes(sb_publishable_r_KYRFaqP8P7pxT7tLuNCA_lMQia1t0)
   ) {
     return false;
   }
